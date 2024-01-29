@@ -1,0 +1,122 @@
+﻿
+@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_LayoutSP.cshtml";
+}
+@using Web_BanQuanAo.Models;
+<div class="container">
+    @model List<GioHang>
+    <table class="table">
+        <thead>
+            <tr>
+                <td>Mã sản phẩm</td>
+                <td>Tên sản phẩm</td>
+                <td></td>
+                <td>Đơn giá</td>
+                <td>Số lượng</td>
+                <td>Thành tiền</td>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.sMaSP</td>
+                    <td>@item.sTenSp </td>
+                    <td>
+                        <img src="@Url.Content("~/Images/LayoutData/"+item.sHinhAnh)" width="50" height="50" />
+                    </td>
+                    <td>@item.dDonGia</td>
+
+
+                    @using (Html.BeginForm("CapNhatGioHang", "GioHang", new { @sMaSP = item.sMaSP }))
+                    {
+                        @*<td>
+                                @Html.TextBox("txtSoLuong", item.iSoLuong)
+                                <button type="submit" class="btn btn-primary">Cập nhật</button>
+                            </td>*@
+                        <td>
+                            <div class="input-group py-3" id="Product-@item.sMaSP">
+                                <div class="input-group-prepend">
+                                    <button class="btn btn-outline-secondary minus" type="button">-</button>
+                                </div>
+                                @Html.TextBox("txtSoLuong", item.iSoLuong, htmlAttributes: new { @class = "text-center number-product", @style = "width: 15%", @value = "@item.iSoLuong" })
+                                @*<input type="text" class="text-center number-product" style="width: 15%" value="@item.iSoLuong">*@
+                                <div class="input-group-append">
+                                    <button class="btn btn-outline-secondary plus" type="button">+</button>
+                                </div>
+                            </div>
+
+                        </td>
+                        <td>@item.dThanhTien</td>
+                        <td>
+                            <button type="submit" class="btn btn-primary" style="float:right">Cập nhật</button>
+                        </td>
+
+                    }
+                    @*<td>@item.iSoLuong</td>*@
+
+                    <td>
+                        @using (Html.BeginForm("XoaGioHang", "GioHang", new { @sMaSP = item.sMaSP }))
+                        {
+                            <button type="submit" class="btn btn-danger" style="float:right">Xóa</button>
+                        }
+                    </td>
+                </tr>
+
+                <script>
+                $(document).ready(function() {
+                        var quantity = 0;
+                    $('#Product-@item.sMaSP .input-group-prepend button.minus').click(function () {
+                            quantity = $('#Product-@item.sMaSP .number-product').val();
+                            quantity--;
+                            if (quantity < 1)
+                                quantity = 1;
+                        $('#Product-@item.sMaSP .number-product').val(quantity);
+
+                        @*$('a#Add-cart').attr('href', '/Cart/AddItem?productId=@Model.MaSP&quantity=' + quantity);*@
+                        return false;
+                    });
+
+                    $('#Product-@item.sMaSP .input-group-append button.plus').click(function() {
+                        quantity = $('#Product-@item.sMaSP .number-product').val();
+                        quantity++;
+
+                        $('#Product-@item.sMaSP .number-product').val(quantity);
+                        @*$('a#Add-cart').attr('href', '/Cart/AddItem?productId=@Model.MaSP&quantity=' + quantity);*@
+                        return false;
+                        });
+                     });
+                </script>
+
+            }
+
+        </tbody>
+
+    </table>
+    @using (Html.BeginForm("DatHang", "GioHang"))
+    {
+
+        <div>
+            @{ if (Model.Count == 0)
+                {
+                    <p>Giỏ hàng trống</p>
+                }
+                else
+                {
+                    <span class="text-danger" style="text-align:center">
+                        @Html.Action("TongTienThanhToan", "GioHang")
+                    </span>
+                    <button type="submit" class="btn btn-primary" style="float:right">Thanh Toán</button>
+                }
+            }
+
+
+        </div>
+
+    }
+
+
+</div>
+

@@ -1,0 +1,59 @@
+﻿.box-shadow-custom {
+    box-shadow: 1px 1px 12px -6px grey;
+}
+
+.footer {
+    background-color: #024dd3;
+}
+
+    .footer a {
+        color: white;
+        display: block;
+        padding: 6px 0;
+    }
+
+    .footer h3 {
+        color: white;
+    }
+
+    .footer .copyright {
+        background-color:red;
+    }
+
+.top-bar {
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+header .input-group {
+    width: 100% !important;
+}
+
+.item-product {
+    cursor: pointer;
+}
+
+.item .block {
+    opacity: 1 !important;
+    transition: 0.3s ease all;
+}
+
+.pagination-product li.active {
+    background: #8888ff !important;
+    color: white !important;
+    width: 24px;
+    border-radius: 3px !important;
+    text-align: center !important;
+}
+
+.pagination-product li {
+    width: 24px !important;
+    text-align: center !important;
+}
+
+    .pagination-product li a {
+        text-decoration: none !important;
+        color: #8888ff !important;
+    }

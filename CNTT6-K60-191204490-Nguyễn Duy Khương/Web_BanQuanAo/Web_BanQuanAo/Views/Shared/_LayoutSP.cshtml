@@ -1,0 +1,170 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Granol7ght</title>
+    @*<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">*@
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link href="~/assets/style.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/owl.carousel.min.js"></script>
+
+    @*<style>
+        #map {
+            width: 100%;
+            min-height: 30vh;
+        }
+    </style>*@
+
+</head>
+<body>
+    <div class="top-bar py-2 d-lg-block d-none">
+        <div class="container d-flex justify-content-between">
+          @*  <div>
+               
+                <span><a href="/SanPham/Map" style="text-decoration:none; color:white;">Địa chỉ </a></span>
+            </div>*@
+            <div>
+                @Html.Action("TopMenu", "SanPham")
+                @*<span class="me-5"><i class="bi bi-geo-alt"></i> Hệ thống của hàng</span>
+                    <span class="me-5 ms-2"><i class="bi bi-globe"></i> Tiếng Việt</span>
+                    <span><a href="@Url.Action("DangKy","NguoiDung")"style="color:white; text-decoration:none;" >Đăng ký</a> </span>
+                    <span>|</span>
+                    <span><a href="@Url.Action("DangNhap","NguoiDung")" style="color:white; text-decoration:none;">Đăng nhập</a></span>*@
+            </div>
+        </div>
+    </div>
+    <header class="pt-3 pb-2 sticky-top bg-white">
+        <nav class="navbar navbar-expand-lg navbar-light container">
+            <div class="container-fluid">
+                <img src="~/Images/LayoutIndex/logo2.jpg" alt="" style="width: 50px !important;">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse ms-4 row justify-content-between" id="navbarSupportedContent">
+                   
+
+                    @Html.Action("LoaiPartial", "SanPham")
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="main">
+
+        @RenderBody()
+
+        <!--</div>-->
+        <div class="banner container my-5">
+            <img src="~/Images/LayoutIndex/botbia.jpg" alt="" class="w-100">
+        </div>
+
+
+        @*
+        <div class="d-flex container">
+            <div class="col-3 d-flex justify-content-center">
+                <img src="~/Images/LayoutIndex/group1.svg" alt="">
+                <div class="ms-4">
+                    <h5>Giao hàng toàn quốc</h5>
+                    <span class="d-block">Khắp 63 tỉnh thành</span>
+                    <a href="#" class="text-secondary">Xem thêm</a>
+                </div>
+            </div>
+            <div class="col-3 d-flex justify-content-center">
+                <img src="~/Images/LayoutIndex/group2.svg" alt="">
+                <div class="ms-4">
+                    <h5>Miễn phí đổi trả</h5>
+                    <span class="d-block">Khắp 63 tỉnh thành</span>
+                    <a href="#" class="text-secondary">Xem thêm</a>
+                </div>
+            </div>
+            <div class="col-3 d-flex justify-content-center">
+                <img src="~/Images/LayoutIndex/group3.svg" alt="">
+                <div class="ms-4">
+                    <h5>Ưu đãi thành viên</h5>
+                    <span class="d-block">Khắp 63 tỉnh thành</span>
+                    <a href="#" class="text-secondary">Xem thêm</a>
+                </div>
+            </div>
+            <div class="col-3 d-flex justify-content-center">
+                <img src="~/Images/LayoutIndex/group4.svg" alt="">
+                <div class="ms-4">
+                    <h5>Sản phẩm chất lượng</h5>
+                    <span class="d-block">Khắp 63 tỉnh thành</span>
+                    <a href="#" class="text-secondary">Xem thêm</a>
+                </div>
+            </div>
+        </div> -->
+        *@
+    </div>
+    <footer class="footer pt-5 mt-5" style="background-color: green;">
+        <div class="d-flex container">
+            <div class="col-3">
+                <h3>Về chúng tôi</h3>
+                <a href="#" class="text-decoration-none">Giới thiệu</a>
+                <a href="#" class="text-decoration-none">Cơ hội nghề nghiệp</a>
+                <a href="#" class="text-decoration-none">Hệ thống cửa hàng</a>
+                <a href="#" class="text-decoration-none">Trở thành đại lý</a>
+            </div>
+            <div class="col-3">
+                <h3>Liên kết</h3>
+                <a href="#" class="text-decoration-none">Hướng dẫn mua hàng</a>
+                <a href="#" class="text-decoration-none">Hướng dẫn chọn kích thước</a>
+                <a href="#" class="text-decoration-none">Chính xác & điều khoản</a>
+                <a href="#" class="text-decoration-none">Vận chuyển và giao hàng</a>
+            </div>
+            <div class="col-3">
+                <h3>Kênh cộng đồng</h3>
+                <div class="d-flex justify-content-between w-50 my-4">
+                    <img src="~/Images/LayoutIndex/facebook.svg" alt="">
+                    <img src="~/Images/LayoutIndex/insta.svg" alt="">
+                    <img src="~/Images/LayoutIndex/twitter.svg" alt="">
+                    <img src="~/Images/LayoutIndex/dribbble.svg" alt="">
+                </div>
+                <h3 class="mt-2">Gian hàng Online</h3>
+                <div class="d-flex justify-content-between w-50 my-4">
+                    <img src="~/Images/LayoutIndex/shoppe.svg" alt="">
+                    <img src="~/Images/LayoutIndex/lazada.svg" alt="">
+                    <img src="~/Images/LayoutIndex/tiki.svg" alt="">
+                    <img src="~/Images/LayoutIndex/amazon.svg" alt="">
+                </div>
+            </div>
+            <div class="col-3">
+                <h3>Liên hệ tư vấn</h3>
+                <a href="#" class="text-decoration-none d-flex justify-content-between">Hotline 24/7  <span class="fs-4">0378 111 054</span></a>
+                <a href="#" class="text-decoration-none d-flex justify-content-between">Hỗ trợ khách sỉ<span class="fs-4">0364 699 868</span></a>
+                @*<a href="#" class="text-decoration-none d-flex justify-content-between">Hỗ trợ phân phối<span class="fs-4">0904 396 111</span></a>
+                <img src="~/Images/LayoutIndex/register.svg" alt="">*@
+            </div>
+        </div>
+
+        @*   <div class="text-center py-2 text-light copyright mt-5"> </div>*@
+    </footer>
+    <script type="text/javascript">
+		$(document).ready(function() {
+			$('#load-du-lieu').click(function(e) {
+				console.log(1);
+				e.preventDefault();
+				$('#noidung').load('header.html');
+			});
+			$('.item-product').hover(function(){
+				$(this).toggleClass('item');
+			});
+			var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+			var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+				return new bootstrap.Tooltip(tooltipTriggerEl)
+			})
+		});
+    </script>
+</body>
+</html>

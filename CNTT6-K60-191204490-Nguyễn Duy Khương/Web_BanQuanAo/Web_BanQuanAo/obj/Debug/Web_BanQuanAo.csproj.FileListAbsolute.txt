@@ -1,0 +1,473 @@
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll.config
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.pdb
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe.config
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.rsp
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe.config
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.rsp
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.AppContext.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Collections.Immutable.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Console.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Globalization.Calendars.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Http.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Sockets.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.ValueTuple.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe.config
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.rsp
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe.config
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Web.Infrastructure.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\WebGrease.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.pdb
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.AssemblyReference.cache
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CoreCompileInputs.cache
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CopyComplete
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.dll
+D:\BTL\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.pdb
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll.config
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.pdb
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe.config
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.rsp
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe.config
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.rsp
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.AppContext.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Collections.Immutable.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Console.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Globalization.Calendars.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Http.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Sockets.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.ValueTuple.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe.config
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.rsp
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe.config
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Web.Infrastructure.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\WebGrease.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.pdb
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.AssemblyReference.cache
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CoreCompileInputs.cache
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CopyComplete
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.dll
+E:\Tài Liệu\New folder (4)\Nhom17_WebBanQuanAo_Duong191201999_Hiep191203129_Tu191203508\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.pdb
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll.config
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.pdb
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe.config
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.rsp
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe.config
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.rsp
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.AppContext.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Console.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Http.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.ValueTuple.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe.config
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.rsp
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\WebGrease.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.pdb
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.AssemblyReference.cache
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CopyComplete
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.dll
+C:\Users\khuong\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.pdb
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll.config
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.pdb
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe.config
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.rsp
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe.config
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.rsp
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.AppContext.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Console.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Http.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.ValueTuple.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe.config
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.rsp
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\WebGrease.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.pdb
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.AssemblyReference.cache
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CopyComplete
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.dll
+C:\Users\khuon\OneDrive\Máy tính\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.pdb
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll.config
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Web_BanQuanAo.pdb
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.exe.config
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csc.rsp
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.exe.config
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\csi.rsp
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.AppContext.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Collections.Immutable.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Console.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Globalization.Calendars.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Http.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Net.Sockets.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.ValueTuple.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.exe.config
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\vbc.rsp
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\roslyn\VBCSCompiler.exe.config
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Web.Infrastructure.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\WebGrease.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\EntityFramework.SqlServer.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\PagedList.Mvc.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Helpers.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Mvc.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Optimization.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Razor.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Deployment.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.WebPages.Razor.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Newtonsoft.Json.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Antlr3.Runtime.pdb
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Net.Http.Formatting.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\System.Web.Http.WebHost.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.AssemblyReference.cache
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CoreCompileInputs.cache
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.csproj.CopyComplete
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.dll
+E:\TaiLieuDA\CNTT6-K60-191204490-Nguyễn Duy Khương\Web_BanQuanAo\Web_BanQuanAo\obj\Debug\Web_BanQuanAo.pdb

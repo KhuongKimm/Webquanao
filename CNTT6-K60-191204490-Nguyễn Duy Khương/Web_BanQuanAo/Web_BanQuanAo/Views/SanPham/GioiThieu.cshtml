@@ -1,0 +1,231 @@
+﻿
+@{
+    ViewBag.Title = "index";
+    Layout = "~/Views/Shared/_LayoutSP.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Hướng dẫn jQuery Ajax - Thienanblog.com</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="./assets/style.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/owl.carousel.min.js"></script>
+</head>
+<body>
+   
+    <div class="main container">
+        <div class="banner">
+            <!-- <img src="./images/banner3.png" class="w-100" alt=""> -->
+        </div>
+        <div class="row mt-5 mb-5">
+            <div class="col-lg-8">
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active position-relative">
+                            <img src="~/Images/LayoutIndex/new1.png" style="height: 354px; object-fit: cover; object-position: top;" class="d-block w-100" alt="...">
+                            <div class="position-absolute text-white" style="top: 60%; left: 10%;">
+                                <h2>SPORTS JERSEY</h2>
+                                <p>Get up to $300 off our newest product</p>
+                                <span><i class="bi bi-alarm me-2"></i>14/12/2021 - 31/12/2021</span>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            
+                          @*  <img src="~/Images/LayoutIndex/banner.jpg" style="height: 354px; object-fit: cover; object-position: top;" class="d-block w-100" alt="...">*@
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="d-flex mb-1 position-relative">
+                    <img src="~/Images/LayoutIndex/new2.png" style="height: 175px; object-fit: cover; object-position: top;" class="w-100 d-inline" alt="">
+                    <div class="position-absolute text-white" style="top: 70%; left: 4%;">
+                        <h4>Giày đá bóng FC</h4>
+                    </div>
+                </div>
+                <div class="d-flex mb-1 position-relative">
+                    <img src="~/Images/LayoutIndex/new3.png" style="height: 175px; object-fit: cover; object-position: top;" class="w-100 d-inline" alt="">
+                    <div class="position-absolute text-white" style="top: 70%; left: 4%;">
+                        <h4>Áo thể thao</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="d-flex">
+                    <img src="~/Images/LayoutIndex/new4.png" style="width: 208px; height: 192px;" class="mb-4" alt="">
+                    <div class="ms-4">
+                        <h5 style="font-size: 20px; font-weight: 600;">Thể Thao 24/7</h5>
+                        <span style="font-size: 16px; color: #606266;"><i class="bi bi-alarm me-2"></i>10/10/2021 - 21/10/2021</span>
+                        <p style="color: #909399; font-size: 15px;">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elit, vitae dictum viverra augue fermentum arcu.
+                            Facilisi odio ipsum fermentum nec etiam imperdiet. Et nisl mattis egestas at. Vitae orci volutpat sit parturient nunc.
+                            Iaculis facilisi nunc pharetra, sed. Lectus tellus ultrices ac ullamcorper eget in eu elit. Semper sed condimentum habitasse sit sed nibh fermentum,
+                            eget.
+                        </p>
+                        <a href="#" style="text-decoration: none; font-size: 16px; color: #409EFF;">Xem thêm</a>
+                    </div>
+                </div>
+                <div class="d-flex">
+                    <img src="~/Images/LayoutIndex/new5.png" style="width: 208px; height: 192px;" class="mb-4" alt="">
+                    <div class="ms-4">
+                        <h5 style="font-size: 20px; font-weight: 600;">Boxing - Chiến binh mới!</h5>
+                        <span style="font-size: 16px; color: #606266;"><i class="bi bi-alarm me-2"></i>10/10/2021 - 21/10/2021</span>
+                        <p style="color: #909399; font-size: 15px;">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elit, vitae dictum viverra augue fermentum arcu.
+                            Facilisi odio ipsum fermentum nec etiam imperdiet. Et nisl mattis egestas at. Vitae orci volutpat sit parturient nunc.
+                            Iaculis facilisi nunc pharetra, sed. Lectus tellus ultrices ac ullamcorper eget in eu elit. Semper sed condimentum habitasse sit sed nibh fermentum,
+                            eget.
+                        </p>
+                        <a href="#" style="text-decoration: none; font-size: 16px; color: #409EFF;">Xem thêm</a>
+                    </div>
+                </div>
+                <div class="d-flex">
+                    <img src="~/Images/LayoutIndex/new6.png" style="width: 208px; height: 192px;" class="mb-4" alt="">
+                    <div class="ms-4">
+                        <h5 style="font-size: 20px; font-weight: 600;">Sức khỏe đời sống</h5>
+                        <span style="font-size: 16px; color: #606266;"><i class="bi bi-alarm me-2"></i>10/10/2021 - 21/10/2021</span>
+                        <p style="color: #909399; font-size: 15px;">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elit, vitae dictum viverra augue fermentum arcu.
+                            Facilisi odio ipsum fermentum nec etiam imperdiet. Et nisl mattis egestas at. Vitae orci volutpat sit parturient nunc.
+                            Iaculis facilisi nunc pharetra, sed. Lectus tellus ultrices ac ullamcorper eget in eu elit. Semper sed condimentum habitasse sit sed nibh fermentum,
+                            eget.
+                        </p>
+                        <a href="#" style="text-decoration: none; font-size: 16px; color: #409EFF;">Xem thêm</a>
+                    </div>
+                </div>
+                <div class="d-flex">
+                    <img src="~/Images/LayoutIndex/new7.png" style="width: 208px; height: 192px;" class="mb-4" alt="">
+                    <div class="ms-4">
+                        <h5 style="font-size: 20px; font-weight: 600;">Năng động- Sáng tạo</h5>
+                        <span style="font-size: 16px; color: #606266;"><i class="bi bi-alarm me-2"></i>10/10/2021 - 21/10/2021</span>
+                        <p style="color: #909399; font-size: 15px;">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elit, vitae dictum viverra augue fermentum arcu.
+                            Facilisi odio ipsum fermentum nec etiam imperdiet. Et nisl mattis egestas at. Vitae orci volutpat sit parturient nunc.
+                            Iaculis facilisi nunc pharetra, sed. Lectus tellus ultrices ac ullamcorper eget in eu elit. Semper sed condimentum habitasse sit sed nibh fermentum,
+                            eget.
+                        </p>
+                        <a href="#" style="text-decoration: none; font-size: 16px; color: #409EFF;">Xem thêm</a>
+                    </div>
+                </div>
+                <div class="w-100 text-center mt-4">
+                    <button type="button" class="btn btn-primary btn-lg" style="background: linear-gradient(90deg, #14AEF5 0%, #2080F3 100%); border: 0;">Hiển thị thêm</button>
+                </div>
+            </div>
+            <div class="col-lg-4 p-4" style="height: fit-content;border: 2px solid #EBEEF5;">
+                <div class="d-flex mb-4">
+                    <img src="~/Images/LayoutIndex/new8.png" style="width: 83px; height: 85px;object-fit: cover;" alt="">
+                    <div class="ms-4">
+                        <h4 style="font-size: 18px;">Lướt ván</h4>
+                        <span style="color: #606266;"><i class="bi bi-alarm me-2"></i>10/10/2021 - 21/10/2021</span>
+                    </div>
+                </div>
+                <div class="d-flex mb-4">
+                    <img src="~/Images/LayoutIndex/new9.png" style="width: 83px; height: 85px;object-fit: cover;" alt="">
+                    <div class="ms-4">
+                        <h4 style="font-size: 18px;">Tennis</h4>
+                        <span style="color: #606266;"><i class="bi bi-alarm me-2"></i>10/10/2021 - 21/10/2021</span>
+                    </div>
+                </div>
+                <div class="d-flex mb-4">
+                    <img src="~/Images/LayoutIndex/new10.png" style="width: 83px; height: 85px;object-fit: cover;" alt="">
+                    <div class="ms-4">
+                        <h4 style="font-size: 18px;">Boxing</h4>
+                        <span style="color: #606266;"><i class="bi bi-alarm me-2"></i>10/10/2021 - 21/10/2021</span>
+                    </div>
+                </div>
+                <div class="d-flex mb-4">
+                    <img src="~/Images/LayoutIndex/new11.png" style="width: 83px; height: 85px;object-fit: cover;" alt="">
+                    <div class="ms-4">
+                        <h4 style="font-size: 18px;">Education</h4>
+                        <span style="color: #606266;"><i class="bi bi-alarm me-2"></i>10/10/2021 - 21/10/2021</span>
+                    </div>
+                </div>
+                <div class="d-flex mb-4">
+                    <img src="~/Images/LayoutIndex/new12.png" style="width: 83px; height: 85px;object-fit: cover;" alt="">
+                    <div class="ms-4">
+                        <h4 style="font-size: 18px;">Football</h4>
+                        <span style="color: #606266;"><i class="bi bi-alarm me-2"></i>10/10/2021 - 21/10/2021</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+   @* <footer class="footer pt-5 mt-5">
+        <div class="d-flex container">
+            <div class="col-3">
+                <h3>Về chúng tôi</h3>
+                <a href="#" class="text-decoration-none">Giới thiệu</a>
+                <a href="#" class="text-decoration-none">Cơ hội nghề nghiệp</a>
+                <a href="#" class="text-decoration-none">Hệ thống cửa hàng</a>
+                <a href="#" class="text-decoration-none">Trở thành đại lý</a>
+            </div>
+            <div class="col-3">
+                <h3>Liên kết</h3>
+                <a href="#" class="text-decoration-none">Hướng dẫn mua hàng</a>
+                <a href="#" class="text-decoration-none">Hướng dẫn chọn kích thước</a>
+                <a href="#" class="text-decoration-none">Chính xác & điều khoản</a>
+                <a href="#" class="text-decoration-none">Vận chuyển và giao hàng</a>
+            </div>
+            <div class="col-3">
+                <h3>Kênh cộng đồng</h3>
+                <div class="d-flex justify-content-between w-50 my-4">
+                    <img src="~/Images/LayoutIndex/facebook.svg" alt="">
+                    <img src="~/Images/LayoutIndex/insta.svg" alt="">
+                    <img src="~/Images/LayoutIndex/twitter.svg" alt="">
+                    <img src="~/Images/LayoutIndex/dribbble.svg" alt="">
+                </div>
+                <h3 class="mt-2">Gian hàng Online</h3>
+                <div class="d-flex justify-content-between w-50 my-4">
+                    <img src="~/Images/LayoutIndex/shoppe.svg" alt="">
+                    <img src="~/Images/LayoutIndex/lazada.svg" alt="">
+                    <img src="~/Images/LayoutIndex/tiki.svg" alt="">
+                    <img src="~/Images/LayoutIndex/amazon.svg" alt="">
+                </div>
+            </div>
+            <div class="col-3">
+                <h3>Liên hệ tư vấn</h3>
+                <a href="#" class="text-decoration-none d-flex justify-content-between">Hotline 24/7  <span class="fs-4">0378 111 054</span></a>
+                <a href="#" class="text-decoration-none d-flex justify-content-between">Hỗ trợ khách lẻ<span class="fs-4">0904 123 111</span></a>
+                <a href="#" class="text-decoration-none d-flex justify-content-between">Hỗ trợ phân phối<span class="fs-4">0904 396 111</span></a>
+                <img src="~/Images/LayoutIndex/register.svg" alt="">
+            </div>
+        </div>
+        <div class="text-center py-2 text-light copyright mt-5">Copyright</div>
+    </footer>*@
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#load-du-lieu').click(function (e) {
+                console.log(1);
+                e.preventDefault();
+                $('#noidung').load('header.html');
+            });
+            $('.item-product').hover(function () {
+                $(this).toggleClass('item');
+            });
+            var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+            var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+                return new bootstrap.Tooltip(tooltipTriggerEl)
+            })
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,68 @@
+﻿@using Web_BanQuanAo.Models
+@using PagedList.Mvc;
+@model PagedList.IPagedList<tblSanPham>
+@{
+    ViewBag.Title = "SanPhamTheoLoai";
+    Layout = "~/Views/Shared/_LayoutSP.cshtml";
+}
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+
+<div class="new_product container mt-5">
+    <div class="banner container my-5">
+        <img src="~/Images/LayoutIndex/bannerSP.jpg" alt="" class="w-100">
+
+    </div>
+    <div class="d-flex justify-content-between mb-4">
+        <h3>Sản phẩm nổi bật</h3>
+        <a href="#" class="text-decoration-none">Xem tất cả <span>></span></a>
+    </div>
+    <div class="row gap-xl-5 gap-md-3 justify-content-between">
+
+        @foreach (var item in Model)
+        {
+
+            <div class="col-xxl-2 col-lg-3 col-md-3 col-sm-5 col text-center box-shadow-custom py-2 item-product pe-auto position-relative">
+                <a href="@Url.Action("ChiTietSanPham","SanPham",new { @MaSp=item.MaSP})" style="text-decoration:none">
+                    <img src="@Url.Content("~/Images/LayoutData/"+item.Anh)" class="img-fluid text-center" alt="">
+
+                    <div class="px-2">
+                        <h3 class="fs-6 my-3 fw-normal" style="color: #212529">
+                            @item.TenSP<br>
+                            Màu: @item.MauSac
+                        </h3>
+                        <div class="d-flex justify-content-between mt-4">
+                            <h2 class="fs-5 text-danger" style="color: rgb(220,53,69)">@item.Gia đ</h2>
+                            <span style="color: #212529">Số lượng: @item.SoLuong</span>
+                        </div>
+                    </div>
+                </a>
+                <div class="position-absolute block opacity-0 d-flex justify-content-center top-50 start-50 translate-middle-x w-100">
+
+                    @using (Html.BeginForm("ThemGioHang", "GioHang", new { @sMaSP = item.MaSP, @strUrl = Request.Url.ToString() }))
+                    {
+                        <button type="submit" class="btn btn-outline-danger btn-sm me-2" data-bs-toggle="tooltip" title="Thêm vào giỏ hàng!">
+                            <i class="bi bi-cart"></i>
+                        </button>
+                    }
+
+                    @using (Html.BeginForm("ThemGioHang", "GioHang", new { @sMaSP = item.MaSP, @strUrl = Request.Url.ToString() }))
+                    {
+                        <button type="submit" class="btn btn-danger btn-sm">Mua ngay</button>
+                    }
+                    @*<button type="button" class="btn btn-outline-danger btn-sm me-2" data-bs-toggle="tooltip" title="Thêm vào giỏ hàng!">
+                           <i class="bi bi-cart"></i>
+                        </button>
+                         <button type="button" class="btn btn-danger btn-sm">Mua ngay</button>*@
+                </div>
+
+
+            </div>
+        }
+
+    </div>
+</div>
+
+<div style="margin-left:710px">
+    @Html.PagedListPager(Model, page => Url.Action("SanPhamTheoLoai", "SanPham", new { page = page }))
+</div>
+

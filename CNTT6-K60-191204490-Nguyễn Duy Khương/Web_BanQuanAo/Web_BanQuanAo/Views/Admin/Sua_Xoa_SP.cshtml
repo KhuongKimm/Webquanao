@@ -1,0 +1,355 @@
+﻿
+@{
+    ViewBag.Title = "Sua_Xoa_SP";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+<style>
+    /*img {
+        width: 100%;
+    }*/
+
+    #test {
+        /*border: 3px solid #00ff00;*/
+        width: 100%;
+        height: 500px;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+    function chooseFile(fileInput) {
+        if (fileInput.files && fileInput.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#image').attr('src', e.target.result);
+            }
+            reader.readAsDataURL(fileInput.files[0]);
+        }
+    }
+    $(document).ready(function () {
+
+        $('#txtChatLieu').on('click', 'li', function () {
+
+            var id = $(this).find('a').text();
+            $('#dropdownChatLieu').text(id);
+
+
+
+        });
+
+        $('#txtLoai').on('click', 'li', function () {
+            var id = $(this).find('a').text();
+            $('#dropdownLoai').text(id);
+        });
+
+        $('#txtHang').on('click', 'li', function () {
+            var id = $(this).find('a').text();
+            $('#dropdownHang').text(id);
+        });
+
+        $('#txtDoiTuong').on('click', 'li', function () {
+            var id = $(this).find('a').text();
+            $('#dropdownDoiTuong').text(id);
+        });
+    })
+
+</script>
+<script>
+    function GetAllCustomers(a) {
+
+        var url = 'https://localhost:44364/api/customers/';
+        if (a != null) url = 'https://localhost:44364/api/customers/?TenSP=' + a
+        $.ajax({
+            url: url,
+            method: 'GET',
+            contentType: 'json',
+            dataType: 'json',
+            error: function (response) {
+            },
+            success: function (reponse) {
+
+                var len = reponse.length;
+                let table = '';
+                for (var i = 0; i < len; ++i) {
+                    table = table + '<tr>';
+                    table = table + '<td>' + reponse[i].MaSP + '</td>';
+                    table = table + '<td>' + reponse[i].TenSP + '</td>';
+                    table = table + '<td>' + reponse[i].MaChatLieu + '</td>';
+                    table = table + '<td>' + reponse[i].MauSac + '</td>';
+                    table = table + '<td>' + reponse[i].HangSX + '</td>';
+                    table = table + '<td>' + reponse[i].Gia + '</td>';
+                    table = table + '<td>' + reponse[i].MaDT + '</td>';
+                    table = table + '<td><img src ="/Images/LayoutData/' + reponse[i].Anh + '" /></td>';
+                    table = table + '<td>' + reponse[i].Maloai + '</td>';
+                    table = table + '<td>' + reponse[i].SoLuong + '</td>';
+
+                    table = table + '</tr>';
+                }
+                $('#allKH').html(table);
+
+            },
+            fail: function (response) {
+            }
+        });
+    }
+
+    function GetMa( a) {
+
+        var url = 'https://localhost:44364/api/customers/?i=' + a
+
+        $.ajax({
+            url: url,
+            method: 'GET',
+            contentType: 'json',
+            dataType: 'json',
+            error: function (response) {
+            },
+            success: function (reponse) {
+
+                var len = reponse.length;
+                let li = '';
+                for (var i = 0; i < len; ++i) {
+
+                    li = li + '<li> <a href="#" >' + reponse[i] + '</a></li>';
+
+
+                }
+                if(a==1)
+                    $('#txtChatLieu').html(li);
+                else if (a == 2)
+                    $('#txtLoai').html(li);
+               else if (a == 3)
+                    $('#txtHang').html(li);
+               else if (a == 4)
+                    $('#txtDoiTuong').html(li);
+
+            },
+            fail: function (response) {
+            }
+        });
+    }
+
+    function deleteSanPham() {
+        var url = 'https://localhost:44364/api/customers/?id=' +
+            $('input').eq(0).val();
+        $.ajax({
+            url: url,
+            method: 'DELETE',
+            contentType: 'json',
+            dataType: 'json',
+            success: function (reponse) {
+                console.log(reponse)
+                if (reponse == false) {
+                    alert("Xoá không thành công!");
+                }
+                else {
+                    console.log(url);
+                    alert("Xoá thành công!");
+                    ClearInput();
+                    GetAllCustomers(); //Gọi đến hàm lấy dữ liệu lên bảng
+                }
+            }
+        });
+    }
+    function updateSanPham() {
+        var a = $('input[type=file]').val();
+        var b = '';
+        b = a.substr(12, a.length - 12);
+        //string maSP, string tenSP,
+        //    string maCL, string maMau, string hangSX, float gia, string maDT, string Anh, string ghiChu, string maLoai, int SoLuong)
+        if ($('input').eq(0).val() == "") alert("Chua nhap ma sp")
+        if ($('input').eq(1).val() == "") alert("Chua nhap ten sp")
+
+        var url = 'https://localhost:44364/api/customers?maSP=' +
+            $('input').eq(0).val() + '&tenSP=' +
+            $('input').eq(1).val() + '&maCL=' +
+            $('#dropdownChatLieu').text() + '&maMau=' +
+            $('#txtMau').val() + '&hangSX=' +
+            $('#dropdownHang').text() + '&gia=' +
+            $('#txtGia').val() + '&maDT=' +
+            $('#dropdownDoiTuong').text() + '&Anh='
+            + b + '&ghiChu=' +
+            $('#txtGhiChu').val() + '&maLoai=' +
+            $('#dropdownLoai').text() + '&SoLuong=' +
+            $('#txtSoLuong').val()
+            ;
+
+        $.ajax({
+            url: url,
+            method: 'PUT',
+            contentType: 'json',
+            dataType: 'json'
+        }).done(function (res) {
+            if (!res) {
+                alert("Sua không thành công!");
+            }
+            else {
+                /*ClearInput();*/
+                alert("Sua Thanh Cong");
+                GetAllCustomers();
+            }
+        })
+    }
+    function GetSPSua(a) {
+
+
+        url = 'https://localhost:44364/api/customers/?MaSP=' + a
+        $.ajax({
+            url: url,
+            method: 'GET',
+            contentType: 'json',
+            dataType: 'json',
+            error: function (response) {
+            },
+            success: function (reponse) {
+
+                $('input').eq(0).val(reponse.MaSP);
+                ////$('input').eq(1).val(reponse[0].TenSP);
+                ////$('#dropdownChatLieu').text(reponse[0].MaChatLieu);
+                ////$('#txtMau').val(reponse[0].MauSac);
+                ////$('#dropdownHang').text(reponse[0].HangSX);
+                ////$('#txtGia').val(reponse[0].Gia);
+                ////$('#dropdownDoiTuong').text(reponse[0].MaDT);
+                ////$('input[type=file]').val(reponse[0].Anh);
+                ////$('#txtGhiChu').val(reponse[0].GhiChu);
+                ////$('#dropdownLoai').text(reponse[0].Maloai);
+                ////$('#txtSoLuong').val(reponse[0].SoLuong);
+
+
+
+            },
+            fail: function (response) {
+            }
+        });
+    }
+
+
+
+
+</script>
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Nhập thông tin sản phẩm.
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label for="txtMK">Mã Sản Phẩm</label>
+                            <input type="text" id="txtMK" class="form-control" name="MaSP" placeholder="Mã sản phẩm" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMK">Tên Sản Phẩm</label>
+                            <input type="text" id="txtMK" class="form-control" name="MaSP" placeholder="Mã sản phẩm" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="form-group">
+
+                            <label for="txtMK"> Ma chat lieu </label>
+                            <div class="dropdown">
+                                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownChatLieu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" onclick="GetMa(1);">
+                                    Ma chat lieu
+                                    <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownChatLieu" id="txtChatLieu">
+                                </ul>
+                            </div>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMK">Mã Màu</label>
+                            <input type="text" id="txtMau" class="form-control" name="MaSP" placeholder="Mã sản phẩm" aria-describedby="basic-addon1">
+
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMK">Mã Loai</label>
+                            <div class="dropdown">
+                                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownLoai" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" onclick="GetMa(2);">
+                                    Ma Loai
+                                    <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownLoai" id="txtLoai">
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMK">hang san xuat</label>
+                            <div class="dropdown">
+                                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownHang" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" onclick="GetMa(3);">
+                                    Hang san xuat
+                                    <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownhang" id="txtHang">
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMK">Mã đối tượng</label>
+                            <div class="dropdown">
+                                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownDoiTuong" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" onclick="GetMa(4);">
+                                    Ma doi tuong
+                                    <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownDoiTuong" id="txtDoiTuong">
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMK">Ảnh</label>
+                            <input type="file" id="imageFile" onchange="chooseFile(this)" required class="form-control" accept="img/*">
+                            <img src="" alt="" id="image" width="200" height="200" />
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMK">Ghi Chú</label>
+                            <input type="text" id="txtGhiChu" class="form-control" name="MaSP" placeholder="Mã sản phẩm" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMK">Gia</label>
+                            <input type="text" id="txtGia" class="form-control" name="MaSP" placeholder="Mã sản phẩm" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMK">Số lượng</label>
+                            <input type="text" id="txtSoLuong" class="form-control" name="MaSP" placeholder="Mã sản phẩm" aria-describedby="basic-addon1">
+                        </div>
+                        <div>
+                            <button type="button" class="btn btn-primary update-button" id="btnXoa"
+                                    onclick="deleteSanPham();">
+                                Xoa
+                            </button>
+                            <button type="button" class="btn btn-primary update-button"
+                                    onclick="updateSanPham();">
+                                Sua
+                            </button>
+                        </div>
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div>
+    @Html.ActionLink("Back to List", "IndexSP")
+</div>
+<style>
+    .form-control {
+        width: 70%;
+    }
+</style>
+
+
